@@ -1,0 +1,2012 @@
+{
+  "data": [
+    {
+      "codigo": 2537,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Água Branca"
+    },
+    {
+      "codigo": 2538,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Aguiar"
+    },
+    {
+      "codigo": 2539,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Alagoa Grande"
+    },
+    {
+      "codigo": 2540,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Alagoa Nova"
+    },
+    {
+      "codigo": 2541,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Alagoinha"
+    },
+    {
+      "codigo": 2542,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Alcantil"
+    },
+    {
+      "codigo": 2543,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Algodão de Jandaíra"
+    },
+    {
+      "codigo": 2544,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Alhandra"
+    },
+    {
+      "codigo": 2545,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Amparo"
+    },
+    {
+      "codigo": 2546,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Aparecida"
+    },
+    {
+      "codigo": 2547,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Araçagi"
+    },
+    {
+      "codigo": 2548,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Arara"
+    },
+    {
+      "codigo": 2549,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Araruna"
+    },
+    {
+      "codigo": 2550,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Areia"
+    },
+    {
+      "codigo": 2551,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Areia de Baraúnas"
+    },
+    {
+      "codigo": 2552,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Areial"
+    },
+    {
+      "codigo": 2553,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Aroeiras"
+    },
+    {
+      "codigo": 2554,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Assunção"
+    },
+    {
+      "codigo": 2555,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Baía da Traição"
+    },
+    {
+      "codigo": 2556,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Bananeiras"
+    },
+    {
+      "codigo": 2557,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Baraúna"
+    },
+    {
+      "codigo": 2558,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Barra de Santa Rosa"
+    },
+    {
+      "codigo": 2559,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Barra de Santana"
+    },
+    {
+      "codigo": 2560,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Barra de São Miguel"
+    },
+    {
+      "codigo": 2561,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Bayeux"
+    },
+    {
+      "codigo": 2562,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Belém"
+    },
+    {
+      "codigo": 2563,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Belém do Brejo do Cruz"
+    },
+    {
+      "codigo": 2564,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Bernardino Batista"
+    },
+    {
+      "codigo": 2565,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Boa Ventura"
+    },
+    {
+      "codigo": 2566,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Boa Vista"
+    },
+    {
+      "codigo": 2567,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Bom Jesus"
+    },
+    {
+      "codigo": 2568,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Bom Sucesso"
+    },
+    {
+      "codigo": 2569,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Bonito de Santa Fé"
+    },
+    {
+      "codigo": 2570,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Boqueirão"
+    },
+    {
+      "codigo": 2571,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Borborema"
+    },
+    {
+      "codigo": 2572,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Brejo do Cruz"
+    },
+    {
+      "codigo": 2573,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Brejo dos Santos"
+    },
+    {
+      "codigo": 2574,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Caaporã"
+    },
+    {
+      "codigo": 2575,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cabaceiras"
+    },
+    {
+      "codigo": 2576,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cabedelo"
+    },
+    {
+      "codigo": 2577,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cachoeira dos Índios"
+    },
+    {
+      "codigo": 2578,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cacimba de Areia"
+    },
+    {
+      "codigo": 2579,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cacimba de Dentro"
+    },
+    {
+      "codigo": 2580,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cacimbas"
+    },
+    {
+      "codigo": 2581,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Caiçara"
+    },
+    {
+      "codigo": 2582,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cajazeiras"
+    },
+    {
+      "codigo": 2583,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cajazeirinhas"
+    },
+    {
+      "codigo": 2584,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Caldas Brandão"
+    },
+    {
+      "codigo": 2585,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Camalaú"
+    },
+    {
+      "codigo": 2586,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Campina Grande"
+    },
+    {
+      "codigo": 2587,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Campo de Santana"
+    },
+    {
+      "codigo": 2588,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Capim"
+    },
+    {
+      "codigo": 2589,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Caraúbas"
+    },
+    {
+      "codigo": 2590,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Carrapateira"
+    },
+    {
+      "codigo": 2591,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Casserengue"
+    },
+    {
+      "codigo": 2592,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Catingueira"
+    },
+    {
+      "codigo": 2593,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Catolé do Rocha"
+    },
+    {
+      "codigo": 2594,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Caturité"
+    },
+    {
+      "codigo": 2595,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Conceição"
+    },
+    {
+      "codigo": 2596,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Condado"
+    },
+    {
+      "codigo": 2597,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Conde"
+    },
+    {
+      "codigo": 2598,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Congo"
+    },
+    {
+      "codigo": 2599,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Coremas"
+    },
+    {
+      "codigo": 2600,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Coxixola"
+    },
+    {
+      "codigo": 2601,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cruz do Espírito Santo"
+    },
+    {
+      "codigo": 2602,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cubati"
+    },
+    {
+      "codigo": 2603,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cuité"
+    },
+    {
+      "codigo": 2604,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cuité de Mamanguape"
+    },
+    {
+      "codigo": 2605,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Cuitegi"
+    },
+    {
+      "codigo": 2606,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Curral de Cima"
+    },
+    {
+      "codigo": 2607,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Curral Velho"
+    },
+    {
+      "codigo": 2608,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Damião"
+    },
+    {
+      "codigo": 2609,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Desterro"
+    },
+    {
+      "codigo": 2610,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Diamante"
+    },
+    {
+      "codigo": 2611,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Dona Inês"
+    },
+    {
+      "codigo": 2612,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Duas Estradas"
+    },
+    {
+      "codigo": 2613,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Emas"
+    },
+    {
+      "codigo": 2614,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Esperança"
+    },
+    {
+      "codigo": 2615,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Fagundes"
+    },
+    {
+      "codigo": 2616,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Frei Martinho"
+    },
+    {
+      "codigo": 2617,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Gado Bravo"
+    },
+    {
+      "codigo": 2618,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Guarabira"
+    },
+    {
+      "codigo": 2619,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Gurinhém"
+    },
+    {
+      "codigo": 2620,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Gurjão"
+    },
+    {
+      "codigo": 2621,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Ibiara"
+    },
+    {
+      "codigo": 2622,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Igaracy"
+    },
+    {
+      "codigo": 2623,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Imaculada"
+    },
+    {
+      "codigo": 2624,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Ingá"
+    },
+    {
+      "codigo": 2625,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Itabaiana"
+    },
+    {
+      "codigo": 2626,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Itaporanga"
+    },
+    {
+      "codigo": 2627,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Itapororoca"
+    },
+    {
+      "codigo": 2628,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Itatuba"
+    },
+    {
+      "codigo": 2629,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Jacaraú"
+    },
+    {
+      "codigo": 2630,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Jericó"
+    },
+    {
+      "codigo": 2631,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "João Pessoa"
+    },
+    {
+      "codigo": 2632,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Juarez Távora"
+    },
+    {
+      "codigo": 2633,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Juazeirinho"
+    },
+    {
+      "codigo": 2634,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Junco do Seridó"
+    },
+    {
+      "codigo": 2635,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Juripiranga"
+    },
+    {
+      "codigo": 2636,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Juru"
+    },
+    {
+      "codigo": 2637,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Lagoa"
+    },
+    {
+      "codigo": 2638,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Lagoa de Dentro"
+    },
+    {
+      "codigo": 2639,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Lagoa Seca"
+    },
+    {
+      "codigo": 2640,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Lastro"
+    },
+    {
+      "codigo": 2641,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Livramento"
+    },
+    {
+      "codigo": 2642,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Logradouro"
+    },
+    {
+      "codigo": 2643,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Lucena"
+    },
+    {
+      "codigo": 2644,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Mãe dÁgua"
+    },
+    {
+      "codigo": 2645,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Malta"
+    },
+    {
+      "codigo": 2646,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Mamanguape"
+    },
+    {
+      "codigo": 2647,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Manaíra"
+    },
+    {
+      "codigo": 2648,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Marcação"
+    },
+    {
+      "codigo": 2649,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Mari"
+    },
+    {
+      "codigo": 2650,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Marizópolis"
+    },
+    {
+      "codigo": 2651,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Massaranduba"
+    },
+    {
+      "codigo": 2652,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Mataraca"
+    },
+    {
+      "codigo": 2653,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Matinhas"
+    },
+    {
+      "codigo": 2654,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Mato Grosso"
+    },
+    {
+      "codigo": 2655,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Maturéia"
+    },
+    {
+      "codigo": 2656,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Mogeiro"
+    },
+    {
+      "codigo": 2657,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Montadas"
+    },
+    {
+      "codigo": 2658,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Monte Horebe"
+    },
+    {
+      "codigo": 2659,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Monteiro"
+    },
+    {
+      "codigo": 2660,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Mulungu"
+    },
+    {
+      "codigo": 2661,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Natuba"
+    },
+    {
+      "codigo": 2662,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Nazarezinho"
+    },
+    {
+      "codigo": 2663,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Nova Floresta"
+    },
+    {
+      "codigo": 2664,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Nova Olinda"
+    },
+    {
+      "codigo": 2665,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Nova Palmeira"
+    },
+    {
+      "codigo": 2666,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Olho dÁgua"
+    },
+    {
+      "codigo": 2667,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Olivedos"
+    },
+    {
+      "codigo": 2668,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Ouro Velho"
+    },
+    {
+      "codigo": 2669,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Parari"
+    },
+    {
+      "codigo": 2670,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Passagem"
+    },
+    {
+      "codigo": 2671,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Patos"
+    },
+    {
+      "codigo": 2672,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Paulista"
+    },
+    {
+      "codigo": 2673,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pedra Branca"
+    },
+    {
+      "codigo": 2674,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pedra Lavrada"
+    },
+    {
+      "codigo": 2675,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pedras de Fogo"
+    },
+    {
+      "codigo": 2676,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pedro Régis"
+    },
+    {
+      "codigo": 2677,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Piancó"
+    },
+    {
+      "codigo": 2678,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Picuí"
+    },
+    {
+      "codigo": 2679,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pilar"
+    },
+    {
+      "codigo": 2680,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pilões"
+    },
+    {
+      "codigo": 2681,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pilõezinhos"
+    },
+    {
+      "codigo": 2682,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pirpirituba"
+    },
+    {
+      "codigo": 2683,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pitimbu"
+    },
+    {
+      "codigo": 2684,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pocinhos"
+    },
+    {
+      "codigo": 2685,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Poço Dantas"
+    },
+    {
+      "codigo": 2686,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Poço de José de Moura"
+    },
+    {
+      "codigo": 2687,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Pombal"
+    },
+    {
+      "codigo": 2688,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Prata"
+    },
+    {
+      "codigo": 2689,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Princesa Isabel"
+    },
+    {
+      "codigo": 2690,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Puxinanã"
+    },
+    {
+      "codigo": 2691,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Queimadas"
+    },
+    {
+      "codigo": 2692,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Quixabá"
+    },
+    {
+      "codigo": 2693,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Remígio"
+    },
+    {
+      "codigo": 2694,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Riachão"
+    },
+    {
+      "codigo": 2695,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Riachão do Bacamarte"
+    },
+    {
+      "codigo": 2696,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Riachão do Poço"
+    },
+    {
+      "codigo": 2697,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Riacho de Santo Antônio"
+    },
+    {
+      "codigo": 2698,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Riacho dos Cavalos"
+    },
+    {
+      "codigo": 2699,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Rio Tinto"
+    },
+    {
+      "codigo": 2700,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Salgadinho"
+    },
+    {
+      "codigo": 2701,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Salgado de São Félix"
+    },
+    {
+      "codigo": 2702,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santa Cecília"
+    },
+    {
+      "codigo": 2703,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santa Cruz"
+    },
+    {
+      "codigo": 2704,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santa Helena"
+    },
+    {
+      "codigo": 2705,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santa Inês"
+    },
+    {
+      "codigo": 2706,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santa Luzia"
+    },
+    {
+      "codigo": 2707,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santa Rita"
+    },
+    {
+      "codigo": 2708,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santa Teresinha"
+    },
+    {
+      "codigo": 2709,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santana de Mangueira"
+    },
+    {
+      "codigo": 2710,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santana dos Garrotes"
+    },
+    {
+      "codigo": 2711,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santarém"
+    },
+    {
+      "codigo": 2712,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Santo André"
+    },
+    {
+      "codigo": 2713,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Bentinho"
+    },
+    {
+      "codigo": 2714,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Bento"
+    },
+    {
+      "codigo": 2715,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Domingos de Pombal"
+    },
+    {
+      "codigo": 2716,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Domingos do Cariri"
+    },
+    {
+      "codigo": 2717,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Francisco"
+    },
+    {
+      "codigo": 2718,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São João do Cariri"
+    },
+    {
+      "codigo": 2719,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São João do Rio do Peixe"
+    },
+    {
+      "codigo": 2720,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São João do Tigre"
+    },
+    {
+      "codigo": 2721,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José da Lagoa Tapada"
+    },
+    {
+      "codigo": 2722,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José de Caiana"
+    },
+    {
+      "codigo": 2723,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José de Espinharas"
+    },
+    {
+      "codigo": 2724,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José de Piranhas"
+    },
+    {
+      "codigo": 2725,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José de Princesa"
+    },
+    {
+      "codigo": 2726,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José do Bonfim"
+    },
+    {
+      "codigo": 2727,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José do Brejo do Cruz"
+    },
+    {
+      "codigo": 2728,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José do Sabugi"
+    },
+    {
+      "codigo": 2729,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José dos Cordeiros"
+    },
+    {
+      "codigo": 2730,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São José dos Ramos"
+    },
+    {
+      "codigo": 2731,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Mamede"
+    },
+    {
+      "codigo": 2732,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Miguel de Taipu"
+    },
+    {
+      "codigo": 2733,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Sebastião de Lagoa de Roça"
+    },
+    {
+      "codigo": 2734,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "São Sebastião do Umbuzeiro"
+    },
+    {
+      "codigo": 2735,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Sapé"
+    },
+    {
+      "codigo": 2736,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Seridó"
+    },
+    {
+      "codigo": 2737,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Serra Branca"
+    },
+    {
+      "codigo": 2738,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Serra da Raiz"
+    },
+    {
+      "codigo": 2739,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Serra Grande"
+    },
+    {
+      "codigo": 2740,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Serra Redonda"
+    },
+    {
+      "codigo": 2741,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Serraria"
+    },
+    {
+      "codigo": 2742,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Sertãozinho"
+    },
+    {
+      "codigo": 2743,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Sobrado"
+    },
+    {
+      "codigo": 2744,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Solânea"
+    },
+    {
+      "codigo": 2745,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Soledade"
+    },
+    {
+      "codigo": 2746,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Sossêgo"
+    },
+    {
+      "codigo": 2747,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Sousa"
+    },
+    {
+      "codigo": 2748,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Sumé"
+    },
+    {
+      "codigo": 2749,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Taperoá"
+    },
+    {
+      "codigo": 2750,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Tavares"
+    },
+    {
+      "codigo": 2751,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Teixeira"
+    },
+    {
+      "codigo": 2752,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Tenório"
+    },
+    {
+      "codigo": 2753,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Triunfo"
+    },
+    {
+      "codigo": 2754,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Uiraúna"
+    },
+    {
+      "codigo": 2755,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Umbuzeiro"
+    },
+    {
+      "codigo": 2756,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Várzea"
+    },
+    {
+      "codigo": 2757,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Vieirópolis"
+    },
+    {
+      "codigo": 2758,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Vista Serrana"
+    },
+    {
+      "codigo": 2759,
+      "uf": {
+        "codigo": 15,
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "nome": "Zabelê"
+    }
+  ],
+  "total": 223
+}

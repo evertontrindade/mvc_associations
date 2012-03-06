@@ -6,17 +6,13 @@ Ext.define('Aplicacao.view.cidade.List' ,{
     
     store: 'CidadeStore',
 
-    initComponent: function() {
-        this.columns = [
+    columns : [
             {header: 'codigo',  dataIndex: 'codigo'},
             {header: 'nome', dataIndex: 'nome', flex: 1},
             {header: 'Uf', dataIndex: 'codigoUf', 
-            	renderer : function(value, metaData, record){
+                renderer : function(value, metaData, record){
             		return record.get('uf').sigla;
             	}
             }
-        ];
- 
-        this.callParent(arguments);
-    }
+        ]
 });

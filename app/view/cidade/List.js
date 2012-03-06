@@ -9,7 +9,7 @@ Ext.define('Aplicacao.view.cidade.List' ,{
     columns : [
             {header: 'codigo',  dataIndex: 'codigo'},
             {header: 'nome', dataIndex: 'nome', flex: 1},
-            {header: 'Uf', dataIndex: 'codigoUf', 
+            {header: 'Uf', dataIndex: 'uf', 
                 renderer : function(value, metaData, record){
             		return record.get('uf').sigla;
             	}
